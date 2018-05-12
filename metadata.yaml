@@ -19,6 +19,8 @@ description: "A Political Romance is a 1759 novel by Laurence Sterne, author of 
   \ a provincial squabble between a church-lawyer, an archbishop and a Dean, i.e.\
   \ a \"Lilliputian\" satire on ecclesiastical politics in Sterne's York.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20257#A-Political-Romance
 gutenberg_issued: '2007-01-02'
 gutenberg_type: Text
 identifiers:
