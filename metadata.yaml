@@ -1,0 +1,37 @@
+_repo: A-Political-Romance_20257
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sterne, Laurence
+    alias: Yorick, Mr.
+    birthdate: 1713
+    deathdate: 1768
+    gutenberg_agent_id: '419'
+    url: http://www.gutenberg.org/2009/agents/419
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Sterne
+description: "A Political Romance is a 1759 novel by Laurence Sterne, author of Tristram\
+  \ Shandy.\nThe novel was the first work written by Sterne, and it can be labelled\
+  \ a roman à clef or a cronique scandaleuse, which were popular at the beginning\
+  \ of the 18th century. It can be considered a mock-epic allegory that describes\
+  \ a provincial squabble between a church-lawyer, an archbishop and a Dean, i.e.\
+  \ a \"Lilliputian\" satire on ecclesiastical politics in Sterne's York.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2007-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20257'
+  wikidata: Q4658949
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: A Political Romance
+url: http://www.gutenberg.org/ebooks/20257
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Political_Romance
